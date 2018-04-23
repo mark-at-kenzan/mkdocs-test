@@ -1,0 +1,16 @@
+site_name: Tech Radar
+
+pages:
+    - Overview: index.md
+    - Resourcing: resourcing.md
+    - The People: people.md
+    - Skills: skills.md
+    - Tech Radar: radar.md
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'orange'
+    accent: 'orange'
+  feature:
+    tabs: false
