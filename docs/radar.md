@@ -13,8 +13,8 @@ Cecropio. Patrios continuere tibi, Oenopiis convicia contra facinus tenet, ad
 Occupat iunctorum cortice. Quisquis ipsa et validi patrias sexta! Est numina
 abiit, ab longa levibus sibila possis ortu enim?
 
-!!! tip
-    Lorem markdownum teretesque hunc; te alter ipsa talia ortus; vota. Delphos quem fulmineos detur erat bracchia acceptos incedere causam adhibere, quasque.
+???+ note
+    Lorem markdownum teretesque hunc; te alter ipsa talia ortus; vota. Delphos quem fulmineos detur erat bracchia acceptos incedere causam adhibere, quasque. Oenopiis convicia contra facinus tenet, ad Occupat iunctorum cortice. Quisquis ipsa et validi patrias sexta! Est numina abiit, ab longa levibus sibila possis ortu enim?
 
 ## Faciat vi dixi repulsae tantaeque omnibus moriturae
 
