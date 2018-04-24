@@ -8,6 +8,8 @@ This is a sample repository to test using the [MK Docs](http://www.mkdocs.org/) 
 
 * Additional formatting is provided by [Markdown Extensions](https://squidfunk.github.io/mkdocs-material/extensions/admonition/) such as Admonition, CodeHilite, and PyMdown.
 
-* After the site is generated, it is deployed to GitHub Pages using the `mkdocs gh-deploy` command.
+* To  view the documentation locally using the live development server, use the `mkdocs serve` command. Then point a browser to: http://127.0.0.1:8000
 
-To see the deployed documentation site, go to: https://mark-at-kenzan.github.io/mkdocs-test/
+* To build and deploy the site to [GitHub Pages](https://pages.github.com/) use the `mkdocs gh-deploy` command. (Make sure to enable GitHub pages in your repository settings.)
+
+To see the deployed documentation for this repository, go to: https://mark-at-kenzan.github.io/mkdocs-test/
