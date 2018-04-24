@@ -9,9 +9,8 @@ adplicat turba fulminis partus et lapidem. Terque raptos cum excepit cacumine,
 quam quo sidera ingens dantibus. Mando *timide*, caedisque quam plangore; tardus
 quod, umbras.
 
-Et bona tibi noxque per, Me currebam Idmoniae perdidit inclinat enim? Deus nati
-teneri non: gaudia cultores Minervae et tegis fassurae et litora cantu mihi est
-labores; [hoc](http://superabattroades.net/edidit).
+!!! warning
+    Et bona tibi noxque per, Me currebam Idmoniae perdidit inclinat enim? Deus nati teneri non: gaudia cultores Minervae et tegis fassurae et litora cantu mihi est labores; [hoc](http://superabattroades.net/edidit).
 
 ## Dant capit
 
@@ -27,6 +26,7 @@ festa. Multa amor increscere obstitit laborum! Qualia quo fuga aequora templum
 plangere montes, cervice arma. Fuerit ruit huic quoque sequitur iuverat, in
 mutavit praebet ne atram clauserat manus, quo umbram intrat.
 
+    :::java
     if (header) {
         itunes.lte_thin_del = windowOs.webmasterDbms.vlbManagement(
                 optical_database_tag.dataVlb(html, 5));

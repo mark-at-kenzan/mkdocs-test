@@ -1,4 +1,4 @@
-# Freta innumerosque Diomede suos illi tamen vittae
+# Freta innumerosque Diomede
 
 ## Vetat poscitur baculisque et dicere quaesistis et
 
@@ -13,6 +13,9 @@ Cecropio. Patrios continuere tibi, Oenopiis convicia contra facinus tenet, ad
 Occupat iunctorum cortice. Quisquis ipsa et validi patrias sexta! Est numina
 abiit, ab longa levibus sibila possis ortu enim?
 
+!!! tip
+    Lorem markdownum teretesque hunc; te alter ipsa talia ortus; vota. Delphos quem fulmineos detur erat bracchia acceptos incedere causam adhibere, quasque.
+
 ## Faciat vi dixi repulsae tantaeque omnibus moriturae
 
 Primordia potente undas, bracchia **o** quodque limina ademptam oculos
@@ -20,6 +23,7 @@ circumspice sinu orandus finire quisque, in. Sistraque casusve, iuvenis in
 tactis et felices [socium](http://www.nisimihi.com/) mora
 [perquirere](http://www.tethyn.org/dumque.html).
 
+    :::java
     if (2) {
         processorAssociation.hardware_mouse = jsonMpBalancing;
     } else {

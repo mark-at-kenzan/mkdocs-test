@@ -1,8 +1,10 @@
-# Capillis aliquid monstra sanguine erat timet e
+# Capillis aliquid monstra sanguine
 
 ## Aequora simulac alter
 
-Lorem markdownum orantem omnia aliter: Phrygia mediis nubes: nepotes
+![Kitty](images/sad_kitty.jpg)
+
+Kitty lorem markdownum orantem omnia aliter: Phrygia mediis nubes: nepotes
 [una](http://quamvis.com/movetur.aspx) hos. Monstra Dite quid caeli hanc
 laudando sit aliasque truncis iuvenis, tulerunt ire modo, virilibus.
 
