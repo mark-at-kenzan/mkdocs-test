@@ -4,6 +4,8 @@
 
 ![Kitty](images/sad_kitty.jpg)
 
+Aw, sad kitty is cute.
+
 Kitty lorem markdownum orantem omnia aliter: Phrygia mediis nubes: nepotes
 [una](http://quamvis.com/movetur.aspx) hos. Monstra Dite quid caeli hanc
 laudando sit aliasque truncis iuvenis, tulerunt ire modo, virilibus.
